@@ -1,0 +1,67 @@
+# Menu_structure 
+
+- Okno_A 
+    - zpět
+    - roztahnou
+       - zpet    
+       - roztahnout
+       - 1/3 
+       - 2/3 
+    - zatahnout
+       - zpet
+       - zatahnout
+       - 1/3
+       - 2/3
+    - Stineni
+       - zpet
+       - plne
+       - 1/3
+       - 2/3
+- Okno_B
+    - zpět
+    - roztahnout
+        - zpet
+        - roztahnout
+        - 1/3 
+        2/3 
+   - zatahnout
+        - zpet
+        - zatahnout       
+        - 1/3
+        - 2/3
+    - Stineni
+        - zpet
+        - plne
+        - 1/3
+        - 2/3
+- Okno_C
+    - zpět
+    - roztahnout
+        - zpet
+        - roztahnout
+        - 1/3 
+        - 2/3 
+    - zatahnout
+        - zpet
+        - zatahnout
+        - 1/3
+        - 2/3
+    - Stineni
+        - zpet
+        - plne
+        - 1/3
+        - 2/3
+- Nastaveni
+    - zpet
+    - kalibrace
+        - zpet
+        - okno_A
+        - okno_B
+        - okno_C
+    - cas
+        - zpet
+        - nastaveni casu
+            - zpet
+            - cas
+            - roztahnout v
+            - zatahnout v
