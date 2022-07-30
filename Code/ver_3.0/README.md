@@ -20,8 +20,9 @@ ver_3.0 is the software part of the MAT_Blinds project. It was launched during J
 
 Here is [Setup](Setup.md) 
 
-## Photo
-
 ## Video
 [![../../Photo/Photo_blinds.jpg](../../Photo/Photo_blinds.jpg)](https://youtube.com/shorts/5kGoCTF1azA "Click to Watch!")
 Click to Watch! ([rev_3.0](./Schematic/rev_3.0/) with [ver_3.0](./Code/ver_3.0/))
+
+## Photo
+<img align="left" alt="Photo 2" src="../../Photo/Photo_used_in_documentation/photo_11.jpg"/>
