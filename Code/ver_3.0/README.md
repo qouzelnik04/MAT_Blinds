@@ -11,6 +11,13 @@ ver_3.0 is the software part of the MAT_Blinds project. It was launched during J
     - [separate control](../../explanations/separate_control.md)   
 - 1.3" display with Encoder
 
+### Update for version 3.1
+- ver_3.1
+    - code optimization
+    - larger range of blinds
+    - greater accuracy of blinds
+    - add display shutdown after 30s of non-use
+
 Here is [Setup](Setup.md) 
 
 ## Photo
